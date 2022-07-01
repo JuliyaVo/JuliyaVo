@@ -5,7 +5,7 @@
   ---
  ### Welcome to my GitHub profile 👋 
 **I'm software engineer student from** 🇺🇦
- 
+
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/Y34jqOCXhgEsqRLULa/giphy.gif" width="100"/>
  </div>
@@ -16,11 +16,11 @@
  </div>
  
   ---
-  
-  🔠I'm currently studying at the QATestLab...
-  🌅I attended the Courses of Vadim Ksenzov...
-  💙Interests: Artsiom Rusau QA Life, Portnov Computer School, QA With Natalia...
-  👩‍💻I'm currently learning 
+  ###
+  :|+ 🔠I'm currently studying at the QATestLab...
+  + 🌅I attended the Courses of Vadim Ksenzov...
+  + 💙Interests: Artsiom Rusau QA Life, Portnov Computer School, QA With Natalia...
+  + 👩‍💻I'm currently learning 
  
  **Tools:**
   <div>
