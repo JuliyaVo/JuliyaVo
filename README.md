@@ -10,8 +10,9 @@
   <ul>
      <li><p align="left">🔠I'm currently studying at the QATestLab</p></li>
      <li><p align="left">🌅I attended the Courses of Vadim Ksenzov</p></li>
-     <li><p align="left">💙Interests: Artsiom Rusau QA Life, Portnov Computer School, QA With Natalia</p></li>
-     <li><p align="left">👩‍💻I'm passionate about this direction and continue to develop in it</p></li>
+     <li><p align="left">💙Interests: painting, photography, Ukrainian music
+     <li><p align="left">👩‍💻I'm passionate about this direction and continue to develop in it with 
+     <a href="https://www.youtube.com/c/ArtsiomRusauQALife/featured">Artsiom Rusau QA Life</a>, <a href="https://www.youtube.com/playlist?list=PL7XXjge0nKZfUjvs_puLSXpkV-dBrihZu">Portnov Computer School</a>, <a href="https://www.youtube.com/user/natasturza">QA With Natalia</a></p></li>
    </ul>
    
 ---
