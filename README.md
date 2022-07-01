@@ -1,12 +1,38 @@
 <div align="center">
-   <img src="https://media.giphy.com/media/l66giOaErlwyeG47Na/giphy.gif"
+   <img src="https://media.giphy.com/media/HwTt47mZ79CjAF5VeU/giphy.gif"
  </div>
   
   ---
- ### Welcome to my GitHub profile 👋 
-**I'm software engineer student from** 🇺🇦
-
-  <div id="header" align="center">
+ <p align="left"><b>Welcome to my GitHub profile</b>👋</p> 
+ <p align="left"><b>I'm software engineer student from</b>🇺🇦</p>
+  
+   
+  <ul>
+     <li><p align="left">🔠I'm currently studying at the QATestLab</p></li>
+     <li><p align="left">🌅I attended the Courses of Vadim Ksenzov</p></li>
+     <li><p align="left">💙Interests: Artsiom Rusau QA Life, Portnov Computer School, QA With Natalia</p></li>
+     <li><p align="left">👩‍💻I'm passionate about this direction and continue to develop in it</p></li>
+   </ul>
+   
+---
+   
+   <p align="left"><b>Tools:</b></p>
+  <div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="60" height="60"/><b>GitHub</b>&nbsp; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="60" height="60"/><b>Database Tool</>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="60" height="60"/><b>Postman</b>&nbsp; 
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAoK_ayeXCULpLo0T1Rs4vhUo4y5xMfZ9mNQ&usqp=CAU" title="Chrome Developer Tools" alt="Chrome Developer Tools" width="60" height="60"/><b>Chrome Developer Tools</b>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Androidstudio" alt="Androidstudio" width="60" height="60"/><b>Android Studio</b>&nbsp;
+  <img src="https://archive.org/services/img/android-debug-bridge" title="ADB" alt="ADB"  width="60" height="60"/><b>Android Debug Bridge</b>&nbsp; 
+  <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" title="Charles Proxy" alt="Charles Proxy" width="60" height="60"/><b>Charles Proxy</b>&nbsp;
+  <img src="https://user-images.githubusercontent.com/97233820/176945639-36c4bb03-4f87-4ded-8c20-09280f006452.png" title="Fiddler" alt="Fiddler" width="60" height="60"/><b>Fiddler</b>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="60" height="60"/><b>Jira</b>&nbsp;
+  <img src="https://www.linuxcompatible.org/data/publish/184/ae5316d9ae6644aea9fe6101b5922c6a857642/gnome_shell_screenshot_0t5rw0.jpg" title=Mantis" alt="Mantis" width="60" height="60"/><b>Mantis Bug Tracker</b>
+ </div>
+ 
+  ---
+ 
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/Y34jqOCXhgEsqRLULa/giphy.gif" width="100"/>
  </div>
  <div id="badges">
@@ -14,22 +40,3 @@
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
- 
-  ---
-  ###
-  :|+ 🔠I'm currently studying at the QATestLab...
-  + 🌅I attended the Courses of Vadim Ksenzov...
-  + 💙Interests: Artsiom Rusau QA Life, Portnov Computer School, QA With Natalia...
-  + 👩‍💻I'm currently learning 
- 
- **Tools:**
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Androidstudion" alt="Androidstudio" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp;
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" title="Postman" alt="Postman" width="40" height="40"/>
-    
- </div>
- 
-  ---
- 
