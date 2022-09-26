@@ -4,15 +4,16 @@
   
   ---
  <p align="left"><b>Welcome to my GitHub profile</b>👋</p> 
- <p align="left"><b>I'm software engineer student from</b>🇺🇦</p>
+ <p align="left"><b>I'm software engineer trainee from</b>🇺🇦</p>
   
    
   <ul>
-     <li><p align="left">🔠 I'm currently studying at the <a href="https://qatestlab.com/?utm_source=google_gmb&utm_medium=map&utm_campaign=google_my_business">QATestLab Training Center</a></p></li>
-     <li><p align="left">🌅 I attended the <a href="https://ksendzov.com">Authored cource</a> of Vadim Ksenzov</p></li>
-     <li><p align="left">💙 Interests: painting, photography, Ukrainian music
+     <li><p align="left">📌 I attended the <a href="https://qatestlab.com/?utm_source=google_gmb&utm_medium=map&utm_campaign=google_my_business">QATestLab Training Center</a></p></li>
+     <li><p align="left">📌 I attended the <a href="https://ksendzov.com">Authored cource</a> of Vadim Ksenzov</p></li>
      <li><p align="left">👩‍💻 I'm passionate about this direction and continue to develop in it with 
-     <a href="https://www.youtube.com/c/ArtsiomRusauQALife/featured">Artsiom Rusau QA Life</a>, <a href="https://www.youtube.com/playlist?list=PL7XXjge0nKZfUjvs_puLSXpkV-dBrihZu">Portnov Computer School</a>, <a href="https://www.youtube.com/user/natasturza">QA With Natalia</a></p></li>
+    <a href="https://youtube.com/c/PopeliuhaQA">Popeliuha</a>, <a href="https://www.youtube.com/c/ArtsiomRusauQALife/featured">Artsiom Rusau QA Life</a>, <a href="https://www.youtube.com/playlist?list=PL7XXjge0nKZfUjvs_puLSXpkV-dBrihZu">Portnov Computer School</a>, <a href="https://www.youtube.com/user/natasturza">QA With Natalia</a></p></li>
+    <li><p align="left">Internship at the <a href="https://www.linkedin.com/company/82631704">ITX Company</a>
+    <li><p align="left">💙 Interests: happiness, painting, photography, Ukrainian music</p></li>
    </ul>
    
 ---
