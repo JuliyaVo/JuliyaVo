@@ -2,7 +2,7 @@
    <img src="https://media.giphy.com/media/HwTt47mZ79CjAF5VeU/giphy.gif"
  </div>
   <div align="left"> 
-<p><img src="https://cdn-icons-png.flaticon.com/128/3893/3893158.png" width=30 heigh=30><h2>About Me:</h2></p>
+<p><h2><img src="https://cdn-icons-png.flaticon.com/128/3893/3893158.png" width=30 heigh=30>About Me:</h2></p>
 <p>I enjoy in testing and being like a user advocate. In the same side I'm attentive to the business goals. I really like challenges that allow me to regularly learn and improve myself more and more. Perseverance, systems and creative thinking, willingness to take responsibility, ability to ask the right questions, and excellent communicative skills enable me to achieve any goal and targets. I gained my knowledge in the <a href="https://ksendzov.com">Authored course</a> of Vadim Ksenzov and in the <a href="https://qatestlab.com/?utm_source=google_gmb&utm_medium=map&utm_campaign=google_my_business">"QA course" of QATestLab Training Center</a>. 
 Right now, I'm gaining experience working on commercial projects that help me gain new skills.</p>   
  </div>  
