@@ -4,25 +4,25 @@
   
  
  <p align="left"><h2>👩‍💻 About Me:<h2></p> 
- 
+ <div>
  <p align="left">I enjoy in testing and being like a user advocate. In the same side I'm attentive to the business goals. I really like challenges that allow me to regularly learn and improve myself more and more. Perseverance, systems and creative thinking, willingness to take responsibility, ability to ask the right questions, and excellent communicative skills enable me to achieve any goal and targets. I gained my knowledge in the <a href="https://ksendzov.com">Authored course</a> of Vadim Ksenzov and in the <a href="https://qatestlab.com/?utm_source=google_gmb&utm_medium=map&utm_campaign=google_my_business">"QA course" of QATestLab Training Center</a>. 
 Right now, I'm gaining experience working on commercial projects that help me gain new skills.</p>   
-   
+   </div>  
  --- 
- <p align="left"><a href="https://cdn4.vectorstock.com/i/1000x1000/90/58/soft-skills-icon-vector-38009058.jpg"</a>
-   <h1>Soft Skills:<h1></p> 
+ <p align="left">🤹‍<h2>Soft Skills:<h2></p> 
    <ul>
-   <li><p align="left">
+      <li><p align="left">Self-organization</p></li>
+      <li><p align="left">Curiosity</p></li>
+      <li><p align="left">Perseverance</p></li>
+      <li><p align="left">Critical, system and creative thinking</p></li>
+      <li><p align="left">Willingness to take responsibility</p></li>
+      <li><p align="left">Excellent communicative skills and ability to ask right questions</p></li>
+      <li><p align="left">Sense of humor</p></li>
   
   
   
-     <li><p align="left">📌 I attended the <a href="https://ksendzov.com">Authored cource</a> of Vadim Ksenzov</p></li>
-     <li><p align="left">📌 I attended the <a href="https://qatestlab.com/?utm_source=google_gmb&utm_medium=map&utm_campaign=google_my_business">QATestLab Training Center</a></p></li>
-     <li><p align="left">👩‍🦰 I'm passionate about this direction and continue to develop in it with 
-    <a href="https://youtube.com/c/PopeliuhaQA">Popeliuha</a>, <a href="https://www.youtube.com/c/ArtsiomRusauQALife/featured">Artsiom Rusau QA Life</a>, <a href="https://www.youtube.com/playlist?list=PL7XXjge0nKZfUjvs_puLSXpkV-dBrihZu">Portnov Computer School</a>, <a href="https://www.youtube.com/user/natasturza">QA With Natalia</a></p></li>
-    <li><p align="left">👩‍💻 Internship at the <a href="https://www.linkedin.com/company/82631704">ITX Company</a>
-    <li><p align="left">💙 Interests: happiness, painting, photography, Ukrainian music</p></li>
-   </ul>
+  
+    
    
 ---
    
