@@ -8,7 +8,7 @@ Right now, I'm gaining experience working on commercial projects that help me ga
  </div>  
  
  <div align="left">
- <p><img src="https://img.freepik.com/free-vector/soft-skills-concept-illustration_114360-9376.jpg?w=2000" width=60 heigh=60><h2>Soft Skills:</h2></p> 
+ <p><a href="https://www.flaticon.com/free-icons/soft-skills" title="soft skills icons">Soft skills icons created by Flat Icons - Flaticon</a><h2>Soft Skills:</h2></p> 
    <ul>
       <li><p align="left">Self-organization</p></li>
       <li><p align="left">Curiosity</p></li>
