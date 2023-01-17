@@ -7,7 +7,8 @@
 Right now, I'm gaining experience working on commercial projects that help me gain new skills.</p>   
  </div>  
  
- <p align="left">🤹‍<h2>Soft Skills:<h2></p> 
+ <div align="left">
+ <p><h2>🤹‍♀Soft Skills:</h2></p> 
    <ul>
       <li><p align="left">Self-organization</p></li>
       <li><p align="left">Curiosity</p></li>
@@ -16,6 +17,8 @@ Right now, I'm gaining experience working on commercial projects that help me ga
       <li><p align="left">Willingness to take responsibility</p></li>
       <li><p align="left">Excellent communicative skills and ability to ask right questions</p></li>
       <li><p align="left">Sense of humor</p></li>
+   </div>
+   
   
   
   
