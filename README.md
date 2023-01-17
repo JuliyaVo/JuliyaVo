@@ -8,8 +8,7 @@ Right now, I'm gaining experience working on commercial projects that help me ga
  </div>  
  
  <div align="left">
- <p><img src="https://cdn-icons-png.flaticon.com/128/4727/4727496.png">
-   <h2>Soft Skills:</h2></p> 
+ <p><img src="https://cdn-icons-png.flaticon.com/128/2631/2631384.png" width=60 heigh=60><h2>Soft Skills:</h2></p> 
    <ul>
       <li><p align="left">Self-organization</p></li>
       <li><p align="left">Curiosity</p></li>
