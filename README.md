@@ -63,17 +63,15 @@
   <a href="https://github.com/JuliyaVo/Jmeter">
    <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="Jmeter" alt="Jmeter" width="60" height="60"/>&nbsp;
 </a>
- 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3rcitUXg4lx4ivohuulnKK6rebzhtS-nMnK02xcs0Jgf8u4Ou-7ZMGx1mHyRAzqS7k0&usqp=CAU" title="Mantis" alt="Mantis" width="60" height="60"/>&nbsp;
   <img src="http://www.testingtoolsguide.net/wp-content/uploads/2016/11/testlink-logo.png" title="Testlink" alt="Testlink" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VScode" alt="VScode" width="60" height="60"/>&nbsp;
    </div>
-   
 <div align="left">
 <p><h2><img src="https://cdn-icons-png.flaticon.com/128/6214/6214248.png" width=40 heigh=40>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (in basic level and I keep studying):</h2></p>
 <a href="https://github.com/JuliyaVo/SQL">
-   <img scr="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
+   <img scr="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
 </a>
    <a href="https://github.com/JuliyaVo/HTML_CSS">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
@@ -81,7 +79,7 @@
    <a href="https://github.com/JuliyaVo/HTML_CSS">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png?20160530175649" title="CSS" alt="CSS" width="60" height="60"/>&nbsp; 
    </a>
-   <img src="   https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Text-xml.svg/1308px-Text-xml.svg.png?20120910211350" title="XML" alt="XML" width="60" height="60"/>&nbsp; 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Text-xml.svg/1308px-Text-xml.svg.png?20120910211350" title="XML" alt="XML" width="60" height="60"/>&nbsp; 
    </a>
    <a href= "https://github.com/JuliyaVo/JavaScript">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/794px-Javascript-shield.svg.png?20180912181046" title="JS" alt="JS" width="60" height="60"/>&nbsp; 
@@ -94,9 +92,9 @@
    <div align="left">
 <p><h2><img src="https://cdn-icons-png.flaticon.com/128/610/610333.png" width=40 heigh=40>𝐌𝐲 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞𝐬:</h2></p>
    <ol>
-   <a href="https://drive.google.com/file/d/1OtILskrql3RL_eJQykMZOVTvObUlME5k/view">The Fundamentals of Software Testing</a>
-   <a href="https://drive.google.com/file/d/1wx5PsMySZb3SK1b6U-oAAs6A3HqkQe6Q/view?usp=sharing">Stepik Interactive SQL Trainer</a>
-   <a href="https://drive.google.com/file/d/1Y4qsSUlkBZq0K3QQ8NMmatbweqUVDYFb/view?usp=sharing">Stepik Software Testing: Postman for API Testing</a>
+   <li><a href="https://drive.google.com/file/d/1OtILskrql3RL_eJQykMZOVTvObUlME5k/view">The Fundamentals of Software Testing</a></li>
+   <li><a href="https://drive.google.com/file/d/1wx5PsMySZb3SK1b6U-oAAs6A3HqkQe6Q/view?usp=sharing">Stepik Interactive SQL Trainer</a></li>
+   <li><a href="https://drive.google.com/file/d/1Y4qsSUlkBZq0K3QQ8NMmatbweqUVDYFb/view?usp=sharing">Stepik Software Testing: Postman for API Testing</a></li>
    </ol> 
    </a>
    </div>
