@@ -69,7 +69,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VScode" alt="VScode" width="60" height="60"/>&nbsp;
    </div>
 <div align="left">
-<p><h2><img src="https://cdn-icons-png.flaticon.com/128/6214/6214248.png" width=40 heigh=40>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (in basic level and I keep studying):</h2></p>
+<p><h2><img src="https://cdn-icons-png.flaticon.com/128/2620/2620900.png" width=40 heigh=40>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (in basic level and I keep studying):</h2></p>
 <a href="https://github.com/JuliyaVo/SQL">
    <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
 </a>
@@ -92,9 +92,9 @@
    <div align="left">
 <p><h2><img src="https://cdn-icons-png.flaticon.com/128/610/610333.png" width=40 heigh=40>𝐌𝐲 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞𝐬:</h2></p>
    <ol>
-   <li><a href="https://drive.google.com/file/d/1OtILskrql3RL_eJQykMZOVTvObUlME5k/view">The Fundamentals of Software Testing</a></li>
-   <li><a href="https://drive.google.com/file/d/1wx5PsMySZb3SK1b6U-oAAs6A3HqkQe6Q/view?usp=sharing">Stepik Interactive SQL Trainer</a></li>
-   <li><a href="https://drive.google.com/file/d/1Y4qsSUlkBZq0K3QQ8NMmatbweqUVDYFb/view?usp=sharing">Stepik Software Testing: Postman for API Testing</a></li>
+   <p><a href="https://drive.google.com/file/d/1OtILskrql3RL_eJQykMZOVTvObUlME5k/view">The Fundamentals of Software Testing</a></p>
+   <p><a href="https://drive.google.com/file/d/1wx5PsMySZb3SK1b6U-oAAs6A3HqkQe6Q/view?usp=sharing">Stepik Interactive SQL Trainer</a></p>
+   <p><a href="https://drive.google.com/file/d/1Y4qsSUlkBZq0K3QQ8NMmatbweqUVDYFb/view?usp=sharing">Stepik Software Testing: Postman for API Testing</a></p>
    </ol> 
    </a>
    </div>
