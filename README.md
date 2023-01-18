@@ -3,7 +3,7 @@
  </div>
   <div align="left"> 
 <p><h2><img src="https://cdn-icons-png.flaticon.com/128/3893/3893158.png" width=40 heigh=40>𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:</h2></p>
-<p>𝙸 𝚎𝚗𝚓𝚘𝚢 𝚒𝚗 𝚝𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚋𝚎𝚒𝚗𝚐 𝚕𝚒𝚔𝚎 𝚊 𝚞𝚜𝚎𝚛 𝚊𝚍𝚟𝚘𝚌𝚊𝚝𝚎. 𝙸𝚗 𝚝𝚑𝚎 𝚜𝚊𝚖𝚎 𝚜𝚒𝚍𝚎 𝙸'𝚖 𝚊𝚝𝚝𝚎𝚗𝚝𝚒𝚟𝚎 𝚝𝚘 𝚝𝚑𝚎 𝚋𝚞𝚜𝚒𝚗𝚎𝚜𝚜 𝚐𝚘𝚊𝚕𝚜. 𝙸 𝚛𝚎𝚊𝚕𝚕𝚢 𝚕𝚒𝚔𝚎 𝚌𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚎𝚜 𝚝𝚑𝚊𝚝 𝚊𝚕𝚕𝚘𝚠 𝚖𝚎 𝚝𝚘 𝚛𝚎𝚐𝚞𝚕𝚊𝚛𝚕𝚢 𝚕𝚎𝚊𝚛𝚗 𝚊𝚗𝚍 𝚒𝚖𝚙𝚛𝚘𝚟𝚎 𝚖𝚢𝚜𝚎𝚕𝚏 𝚖𝚘𝚛𝚎 𝚊𝚗𝚍 𝚖𝚘𝚛𝚎. 𝙸 𝚐𝚊𝚒𝚗𝚎𝚍 𝚖𝚢 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚒𝚗 𝚝𝚑𝚎 <a href="https://ksendzov.com">𝙰𝚞𝚝𝚑𝚘𝚛𝚎𝚍 𝚌𝚘𝚞𝚛𝚜𝚎 𝚘𝚏 𝚅𝚊𝚍𝚒𝚖 𝙺𝚜𝚎𝚗𝚣𝚘𝚟</a> 𝚊𝚗𝚍 𝚒𝚗 𝚝𝚑𝚎 <a href="https://qatestlab.com/?utm_source=google_gmb&utm_medium=map&utm_campaign=google_my_business">"𝚀𝙰 𝚌𝚘𝚞𝚛𝚜𝚎" 𝚘𝚏 𝚀𝙰𝚃𝚎𝚜𝚝𝙻𝚊𝚋 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐 𝙲𝚎𝚗𝚝𝚎𝚛</a>. 
+<p>𝙸 𝚎𝚗𝚓𝚘𝚢 𝚒𝚗 𝚝𝚎𝚜𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚋𝚎𝚒𝚗𝚐 𝚕𝚒𝚔𝚎 𝚊 𝚞𝚜𝚎𝚛 𝚊𝚍𝚟𝚘𝚌𝚊𝚝𝚎. 𝙸𝚗 𝚝𝚑𝚎 𝚜𝚊𝚖𝚎 𝚜𝚒𝚍𝚎 𝙸'𝚖 𝚊𝚝𝚝𝚎𝚗𝚝𝚒𝚟𝚎 𝚝𝚘 𝚝𝚑𝚎 𝚋𝚞𝚜𝚒𝚗𝚎𝚜𝚜 𝚐𝚘𝚊𝚕𝚜. 𝙸 𝚛𝚎𝚊𝚕𝚕𝚢 𝚕𝚒𝚔𝚎 𝚌𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚎𝚜 𝚝𝚑𝚊𝚝 𝚊𝚕𝚕𝚘𝚠 𝚖𝚎 𝚝𝚘 𝚛𝚎𝚐𝚞𝚕𝚊𝚛𝚕𝚢 𝚕𝚎𝚊𝚛𝚗 𝚊𝚗𝚍 𝚒𝚖𝚙𝚛𝚘𝚟𝚎 𝚖𝚢𝚜𝚎𝚕𝚏 𝚖𝚘𝚛𝚎 𝚊𝚗𝚍 𝚖𝚘𝚛𝚎. 𝙸 𝚐𝚊𝚒𝚗𝚎𝚍 𝚖𝚢 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚒𝚗 𝚝𝚑𝚎 <a href="https://ksendzov.com">𝙰𝚞𝚝𝚑𝚘𝚛𝚎𝚍 𝚌𝚘𝚞𝚛𝚜𝚎 𝚘𝚏 𝚅𝚊𝚍𝚒𝚖 𝙺𝚜𝚎𝚗𝚍𝚣𝚘𝚟</a> 𝚊𝚗𝚍 𝚒𝚗 𝚝𝚑𝚎 <a href="https://qatestlab.com/?utm_source=google_gmb&utm_medium=map&utm_campaign=google_my_business">"𝚀𝙰 𝚌𝚘𝚞𝚛𝚜𝚎" 𝚘𝚏 𝚀𝙰𝚃𝚎𝚜𝚝𝙻𝚊𝚋 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐 𝙲𝚎𝚗𝚝𝚎𝚛</a>. 
 𝚁𝚒𝚐𝚑𝚝 𝚗𝚘𝚠, 𝙸'𝚖 𝚐𝚊𝚒𝚗𝚒𝚗𝚐 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚌𝚘𝚖𝚖𝚎𝚛𝚌𝚒𝚊𝚕 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚝𝚑𝚊𝚝 𝚑𝚎𝚕𝚙 𝚖𝚎 𝚐𝚊𝚒𝚗 𝚗𝚎𝚠 𝚜𝚔𝚒𝚕𝚕𝚜.</p>   
  </div>  
  
@@ -71,7 +71,7 @@
 <div align="left">
 <p><h2><img src="https://cdn-icons-png.flaticon.com/128/6214/6214248.png" width=40 heigh=40>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (in basic level and I keep studying):</h2></p>
 <a href="https://github.com/JuliyaVo/SQL">
-   <img scr="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
+   <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
 </a>
    <a href="https://github.com/JuliyaVo/HTML_CSS">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
@@ -114,7 +114,7 @@
    
   <div id="badges" align="center">
    <a href="https://komarev.com/ghpvc/?username=JuliyaVo">
-     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+     <img src="https://komarev.com/ghpvc/?username=JuliyaVo&style=flat-square&color=blue" alt=""/>
       </a>
  </div>
    
