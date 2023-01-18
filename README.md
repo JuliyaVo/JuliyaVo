@@ -71,7 +71,7 @@
    </div>
    
 <div align="left">
-<p><h2><img src="https://cdn-icons-png.flaticon.com/128/6214/6214248.png" width=40 heigh=40>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:</h2></p>
+<p><h2><img src="https://cdn-icons-png.flaticon.com/128/6214/6214248.png" width=40 heigh=40>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (in basic level and I keep studying):</h2></p>
 <a href="https://github.com/JuliyaVo/SQL">
    <img scr="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
 </a>
@@ -86,15 +86,13 @@
    <a href= "https://github.com/JuliyaVo/JavaScript">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/794px-Javascript-shield.svg.png?20180912181046" title="JS" alt="JS" width="60" height="60"/>&nbsp; 
    </a>
-   (in basic level and I keep studying)
    <a href= "https://github.com/JuliyaVo/Python">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png?20220821155029" title="Python" alt="Python" width="60" height="60"/>&nbsp; 
    </a> 
-   (in basic level and I keep studying)
    </div>
    
    <div align="left">
-<p><h2><img src="https://cdn-icons-png.flaticon.com/128/6703/6703900.png" width=40 heigh=40>My Certificates:</h2></p>
+<p><h2><img src="https://cdn-icons-png.flaticon.com/128/610/610333.png" width=40 heigh=40>𝐌𝐲 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞𝐬:</h2></p>
    <ol>
    <a href="https://drive.google.com/file/d/1OtILskrql3RL_eJQykMZOVTvObUlME5k/view">The Fundamentals of Software Testing</a>
    <a href="https://drive.google.com/file/d/1wx5PsMySZb3SK1b6U-oAAs6A3HqkQe6Q/view?usp=sharing">Stepik Interactive SQL Trainer</a>
