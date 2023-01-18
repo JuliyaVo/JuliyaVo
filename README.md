@@ -35,7 +35,7 @@
   </a>
   
   <a href="https://github.com/JuliyaVo/DevTools">
-     <img src="https://github.com/JuliyaVo/JuliyaVo/blob/main/PngItem_1340136.png?raw=true" title="CromeDevTools" alt="ChromeDevTools" width="60" height="60"/>&nbsp; 
+     <img src="https://github.com/JuliyaVo/JuliyaVo/blob/main/PngItem_1340136.png?raw=true" title="CromeDevTools" alt="ChromeDevTools" width="50" height="50"/>&nbsp; 
   </a>
   
 <a href="https://github.com/JuliyaVo/DevTools">
@@ -60,11 +60,12 @@
    <img src="https://user-images.githubusercontent.com/97233820/176945639-36c4bb03-4f87-4ded-8c20-09280f006452.png" title="Fiddler" alt="Fiddler" width="60" height="60"/>&nbsp;
 </a>
   <img src="https://www.saashub.com/images/app/service_logos/106/2b4fce269616/large.png?1574388781" title="Proxyman" alt="Proxyman" width="60" height="60"/>&nbsp;
-<a href="https://github.com/JuliyaVo/Jmeter">
-  <img scr="http://home.apache.org/~fschumacher/jmeter.svg" title="Jmeter" alt="Jmeter" width="60" height="60"/>&nbsp;
+  <a href="https://github.com/JuliyaVo/Jmeter">
+   <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="Jmeter" alt="Jmeter" width="60" height="60"/>&nbsp;
 </a>
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
-  <img src="https://www.linuxcompatible.org/data/publish/184/ae5316d9ae6644aea9fe6101b5922c6a857642/gnome_shell_screenshot_0t5rw0.jpg" title=Mantis" alt="Mantis" width="60" height="60"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3rcitUXg4lx4ivohuulnKK6rebzhtS-nMnK02xcs0Jgf8u4Ou-7ZMGx1mHyRAzqS7k0&usqp=CAU" title=Mantis" alt="Mantis" width="60" height="60"/>&nbsp;
   <img src="https://www.arditesbd.com/wp-content/uploads/2019/09/main-qimg-dbf8bb94e013476265de3fe196db4a7c.png" title="Testlink" alt="Testlink" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VScode" alt="VScode" width="60" height="60"/>&nbsp;
    </div>
