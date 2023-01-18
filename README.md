@@ -66,7 +66,7 @@
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3rcitUXg4lx4ivohuulnKK6rebzhtS-nMnK02xcs0Jgf8u4Ou-7ZMGx1mHyRAzqS7k0&usqp=CAU" title="Mantis" alt="Mantis" width="60" height="60"/>&nbsp;
-  <img src="https://theqalead.b-cdn.net/wp-content/uploads/sites/2/wpraiser/9da835612a76ecd60c436ba51c31e4e1.png" title="Testlink" alt="Testlink" width="60" height="60"/>&nbsp;
+  <img src="http://www.testingtoolsguide.net/wp-content/uploads/2016/11/testlink-logo.png" title="Testlink" alt="Testlink" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VScode" alt="VScode" width="60" height="60"/>&nbsp;
    </div>
    
