@@ -21,9 +21,11 @@
   
   <div align="left">
    <p align="left"><h2><img src="https://cdn-icons-png.flaticon.com/128/1589/1589641.png" width=40 heigh=40>𝐓𝐨𝐨𝐥𝐬 (𝐚𝐥𝐥 𝐢𝐜𝐨𝐧𝐬 𝐚𝐫𝐞 𝐜𝐥𝐢𝐜𝐤𝐚𝐛𝐥𝐞):</h2></p>
+  
   <a href="https://github.com/JuliyaVo/Terminal">
-     <img scr="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1050px-Octicons-terminal.svg.png" title="Terminal" alt="Terminal" width="60" height="60"/>&nbsp; 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1050px-Octicons-terminal.svg.png" title="Github" alt="Github" width="60" height="60"/>&nbsp; 
   </a>
+  
   <a href="https://github.com/JuliyaVo/GitHub">
      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="60" height="60"/>&nbsp; 
   </a>
