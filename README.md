@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://www.canva.com/design/DAFX8CttxKY/yothJ8XmROIUbj9A_l_EYg/edit?utm_content=DAFX8CttxKY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+   <img src="https://media.giphy.com/media/kfHGi74wgwqtkX0c1u/giphy.gif"
  </div>
   <div align="left"> 
 <p><h2><img src="https://cdn-icons-png.flaticon.com/128/3893/3893158.png" width=40 heigh=40>𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:</h2></p>
@@ -20,7 +20,7 @@
    </div>
   
   <div align="left">
-   <p align="left"><h2><img src="https://cdn-icons-png.flaticon.com/128/1055/1055683.png" width=40 heigh=40>𝐓𝐨𝐨𝐥𝐬 (𝐚𝐥𝐥 𝐢𝐜𝐨𝐧𝐬 𝐚𝐫𝐞 𝐜𝐥𝐢𝐜𝐤𝐚𝐛𝐥𝐞):</h2></p>
+   <p align="left"><h2><img src="https://cdn-icons-png.flaticon.com/128/1589/1589641.png" width=40 heigh=40>𝐓𝐨𝐨𝐥𝐬 (𝐚𝐥𝐥 𝐢𝐜𝐨𝐧𝐬 𝐚𝐫𝐞 𝐜𝐥𝐢𝐜𝐤𝐚𝐛𝐥𝐞):</h2></p>
   <a href="https://github.com/JuliyaVo/Terminal">
      <img scr="https://static.thenounproject.com/png/4118837-200.png" title="Terminal" alt="Terminal" width="60" height="60"/>&nbsp; 
   </a>
