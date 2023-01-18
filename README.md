@@ -23,25 +23,28 @@
    <p align="left"><h2><img src="https://cdn-icons-png.flaticon.com/128/1589/1589641.png" width=40 heigh=40>𝐓𝐨𝐨𝐥𝐬 (𝐚𝐥𝐥 𝐢𝐜𝐨𝐧𝐬 𝐚𝐫𝐞 𝐜𝐥𝐢𝐜𝐤𝐚𝐛𝐥𝐞):</h2></p>
   
   <a href="https://github.com/JuliyaVo/Terminal">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1050px-Octicons-terminal.svg.png" title="Github" alt="Github" width="60" height="60"/>&nbsp; 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1050px-Octicons-terminal.svg.png" title="Terminal" alt="Terminal" width="60" height="60"/>&nbsp; 
   </a>
   
   <a href="https://github.com/JuliyaVo/GitHub">
      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="60" height="60"/>&nbsp; 
   </a>
+  
   <a href="https://github.com/JuliyaVo/SQL/tree/main/Ksendzov_SQL_HW">
      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="60" height="60"/>&nbsp; 
-</a>
-<a href="https://github.com/JuliyaVo/DevTools>
-   <img src="https://files.fm/u/88ubvwjrt" title="Chrome Developer Tools" alt="Chrome Developer Tools" width="60" height="60"/>&nbsp;
-</a>
-<a href="https://github.com/JuliyaVo/DevTools>"
+  </a>
+  
+  <a href="https://github.com/JuliyaVo/DevTools">
+     <img src="https://github.com/JuliyaVo/JuliyaVo/blob/main/PngItem_1340136.png?raw=true" title="CromeDevTools" alt="ChromeDevTools" width="60" height="60"/>&nbsp; 
+  </a>
+  
+<a href="https://github.com/JuliyaVo/DevTools">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Firefox_Developer_Edition_logo%2C_2017.svg/1024px-Firefox_Developer_Edition_logo%2C_2017.svg.png?20220813172646" title="Firefox Developer Tools" alt="Firefox Developer Tools" width="60" height="60"/>&nbsp;
 </a>
-<a href="https://github.com/JuliyaVo/DevTools>"
+<a href="https://github.com/JuliyaVo/DevTools">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Safari_browser_logo.svg/468px-Safari_browser_logo.svg.png?20220831120132" title="Safari Developer Tools" alt="Safari Developer Tools" width="60" height="60"/>&nbsp;
 </a>
-<a href="https://github.com/JuliyaVo/Postman>"
+<a href="https://github.com/JuliyaVo/Postman">
    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="60" height="60"/>&nbsp;
 </a>
 <a href="https://github.com/JuliyaVo/Mobile_Testing">
@@ -62,8 +65,8 @@
 </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
   <img src="https://www.linuxcompatible.org/data/publish/184/ae5316d9ae6644aea9fe6101b5922c6a857642/gnome_shell_screenshot_0t5rw0.jpg" title=Mantis" alt="Mantis" width="60" height="60"/>&nbsp;
-  <img src="https://www.arditesbd.com/wp-content/uploads/2019/09/main-qimg-dbf8bb94e013476265de3fe196db4a7c.png" title="Testlink" alt="Testlink" width="60" height="60"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="SVcode" alt="SVcode" width="60" height="60"/>&nbsp;
+  <img src="https://www.arditesbd.com/wp-content/uploads/2019/09/main-qimg-dbf8bb94e013476265de3fe196db4a7c.png" title="Testlink" alt="Testlink" width="60" height="60"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VScode" alt="VScode" width="60" height="60"/>&nbsp;
    </div>
    
 <div align="left">
