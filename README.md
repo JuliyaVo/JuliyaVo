@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://media.giphy.com/media/kfHGi74wgwqtkX0c1u/giphy.gif width=1000 heigh=1000"
+   <img src="https://media.giphy.com/media/kfHGi74wgwqtkX0c1u/giphy.gif width=1000 heigh=1000">
  </div>
   <div align="left"> 
 <p><h2><img src="https://cdn-icons-png.flaticon.com/128/3893/3893158.png" width=40 heigh=40>𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:</h2></p>
