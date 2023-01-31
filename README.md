@@ -94,7 +94,9 @@
    <ol>
    <p><a href="https://drive.google.com/file/d/1OtILskrql3RL_eJQykMZOVTvObUlME5k/view">The Fundamentals of Software Testing</a></p>
    <p><a href="https://drive.google.com/file/d/1wx5PsMySZb3SK1b6U-oAAs6A3HqkQe6Q/view?usp=sharing">Stepik Interactive SQL Trainer</a></p>
-   <p><a href="https://drive.google.com/file/d/1Y4qsSUlkBZq0K3QQ8NMmatbweqUVDYFb/view?usp=sharing">Stepik Software Testing: Postman for API Testing</a></p>
+   <p><a href="https://drive.google.com/file/d/1Y4qsSUlkBZq0K3QQ8NMmatbweqUVDYFb/view?usp=sharing">Stepik Software Testing: Postman for API Testing</a>
+  <p><a href=" https://drive.google.com/file/d/10thO2p9192LFTsj0oDTFP0WN5TbsTAsS/view?usp=sharing">Sololearn SQL</a>
+   </p>
    </ol> 
    </a>
    </div>
