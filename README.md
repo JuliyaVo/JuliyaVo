@@ -22,11 +22,11 @@
    <p align="left"><h2><img src="https://cdn-icons-png.flaticon.com/128/1589/1589641.png" width=40 heigh=40>𝐓𝐨𝐨𝐥𝐬 (𝐚𝐥𝐥 𝐢𝐜𝐨𝐧𝐬 𝐚𝐫𝐞 𝐜𝐥𝐢𝐜𝐤𝐚𝐛𝐥𝐞):</h2></p>
  
   <a href="https://github.com/JuliyaVo/Terminal">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1050px-Octicons-terminal.svg.png" title="Terminal" alt="Terminal" width="20" height="20"/><a>&nbsp;𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1050px-Octicons-terminal.svg.png" title="Terminal" alt="Terminal" width="15" height="15"/><a>&nbsp;𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋
    <a href="https://github.com/JuliyaVo/GitHub">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="30" height="30"/></a>&nbsp;𝐆𝐈𝐓𝐇𝐔𝐁
+     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="15" height="15"/></a>&nbsp;𝐆𝐈𝐓𝐇𝐔𝐁
  <a href="https://github.com/JuliyaVo/SQL/tree/main/Ksendzov_SQL_HW">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="30" height="30"/></a> 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="15" height="15"/></a> 
   &nbsp;𝐃𝐁𝐄𝐀𝐕𝐄𝐑                                                                                                                               
   <a href="https://github.com/JuliyaVo/DevTools">
      <img src="https://static-00.iconduck.com/assets.00/browser-chrome-icon-512x512-5jzefwp3.png" title="DevTools" alt="DevTools" width="30" height="30"/></a>&nbsp;𝐃𝐄𝐕𝐓𝐎𝐎𝐋𝐒
