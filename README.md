@@ -26,7 +26,7 @@
    <a href="https://github.com/JuliyaVo/GitHub">
      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="15" height="15"/></a>&nbsp;𝐆𝐈𝐓𝐇𝐔𝐁&nbsp;
  <a href="https://github.com/JuliyaVo/SQL/tree/main/Ksendzov_SQL_HW">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="20" height="20"/></a> 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="20" height="15"/></a> 
   &nbsp;𝐃𝐁𝐄𝐀𝐕𝐄𝐑&nbsp;                                                                                                                               
   <a href="https://github.com/JuliyaVo/DevTools">
      <img src="https://static-00.iconduck.com/assets.00/browser-chrome-icon-512x512-5jzefwp3.png" title="DevTools" alt="DevTools" width="15" height="15"/></a>&nbsp;𝐃𝐄𝐕𝐓𝐎𝐎𝐋𝐒&nbsp;
@@ -36,15 +36,15 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Androidstudio" alt="Androidstudio" width="15" height="15"/></a>&nbsp;𝐀𝐍𝐃𝐑𝐎𝐈𝐃𝐒𝐓𝐔𝐃𝐈𝐎&nbsp;
 <a href="https://github.com/JuliyaVo/Mobile_Testing">
 <a href="https://github.com/JuliyaVo/CharlesProxy">
-   <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" title="Charles Proxy" alt="Charles Proxy" width="30" height="30"/></a>&nbsp;𝐂𝐇𝐀𝐑𝐋𝐄𝐒𝐏𝐑𝐎𝐗𝐘
-  <p><img src="https://www.saashub.com/images/app/service_logos/106/2b4fce269616/large.png?1574388781" title="Proxyman" alt="Proxyman" width="30" height="30"/></a>&nbsp;𝐏𝐑𝐎𝐗𝐘𝐌𝐀𝐍
+   <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" title="Charles Proxy" alt="Charles Proxy" width="15" height="15"/></a>&nbsp;𝐂𝐇𝐀𝐑𝐋𝐄𝐒𝐏𝐑𝐎𝐗𝐘&nbsp;
+  <p><img src="https://www.saashub.com/images/app/service_logos/106/2b4fce269616/large.png?1574388781" title="Proxyman" alt="Proxyman" width="15" height="15"/></a>&nbsp;𝐏𝐑𝐎𝐗𝐘𝐌𝐀𝐍&nbsp;
   <a href="https://github.com/JuliyaVo/Jmeter">
-   <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="Jmeter" alt="Jmeter" width="30" height="30"/></a>&nbsp;𝐉𝐌𝐄𝐓𝐄𝐑
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VScode" alt="VScode" width="30" height="30"/>&nbsp;𝐕𝐒𝐂𝐎𝐃𝐄
- <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>&nbsp;𝐉𝐈𝐑𝐀
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3rcitUXg4lx4ivohuulnKK6rebzhtS-nMnK02xcs0Jgf8u4Ou-7ZMGx1mHyRAzqS7k0&usqp=CAU" title="Mantis" alt="Mantis" width="30" height="30"/>&nbsp;𝐌𝐀𝐍𝐓𝐈𝐒𝐁𝐔𝐆𝐓𝐑𝐀𝐂𝐊𝐄𝐑
-  <img src="http://www.testingtoolsguide.net/wp-content/uploads/2016/11/testlink-logo.png" title="Testlink" alt="Testlink" width="30" height="30"/>&nbsp;𝐓𝐄𝐒𝐓𝐋𝐈𝐍𝐊
-  <img src="https://www.qase.io/images/q_logo.png?v=2" title="Qase.io" alt="Qase.io" width="30" height="30"/>&nbsp;𝐐𝐀𝐒𝐄</p>
+   <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="Jmeter" alt="Jmeter" width="15" height="30"/></a>&nbsp;𝐉𝐌𝐄𝐓𝐄𝐑&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VScode" alt="VScode" width="15" height="10"/>&nbsp;𝐕𝐒𝐂𝐎𝐃𝐄&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="15" height="15"/>&nbsp;𝐉𝐈𝐑𝐀&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3rcitUXg4lx4ivohuulnKK6rebzhtS-nMnK02xcs0Jgf8u4Ou-7ZMGx1mHyRAzqS7k0&usqp=CAU" title="Mantis" alt="Mantis" width="15" height="15"/>&nbsp;𝐌𝐀𝐍𝐓𝐈𝐒𝐁𝐔𝐆𝐓𝐑𝐀𝐂𝐊𝐄𝐑&nbsp;
+  <img src="http://www.testingtoolsguide.net/wp-content/uploads/2016/11/testlink-logo.png" title="Testlink" alt="Testlink" width="15" height="15"/>&nbsp;𝐓𝐄𝐒𝐓𝐋𝐈𝐍𝐊&nbsp;
+  <img src="https://www.qase.io/images/q_logo.png?v=2" title="Qase.io" alt="Qase.io" width="15" height="15"/>&nbsp;𝐐𝐀𝐒𝐄</p>&nbsp;
    </div>
 <div align="left">
 <p><h2><img src="https://cdn-icons-png.flaticon.com/128/2620/2620900.png" width=40 heigh=40>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (in basic level and I keep studying):</h2></p>
