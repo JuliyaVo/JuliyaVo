@@ -31,7 +31,7 @@
   <a href="https://github.com/JuliyaVo/DevTools">
      <img src="https://static-00.iconduck.com/assets.00/browser-chrome-icon-512x512-5jzefwp3.png" title="DevTools" alt="DevTools" width="15" height="15"/></a>&nbsp;𝐃𝐄𝐕𝐓𝐎𝐎𝐋𝐒&nbsp;
 <a href="https://github.com/JuliyaVo/Postman">
-   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="18" height="18"/></a>&nbsp;𝐏𝐎𝐒𝐓𝐌𝐀𝐍&nbsp;
+   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="20" height="15"/></a>&nbsp;𝐏𝐎𝐒𝐓𝐌𝐀𝐍&nbsp;
 <a href="https://github.com/JuliyaVo/Mobile_Testing">
    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Androidstudio" alt="Androidstudio" width="15" height="15"/></a>&nbsp;𝐀𝐍𝐃𝐑𝐎𝐈𝐃𝐒𝐓𝐔𝐃𝐈𝐎&nbsp;
 <a href="https://github.com/JuliyaVo/Mobile_Testing">
@@ -44,7 +44,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="15" height="15"/>&nbsp;𝐉𝐈𝐑𝐀&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3rcitUXg4lx4ivohuulnKK6rebzhtS-nMnK02xcs0Jgf8u4Ou-7ZMGx1mHyRAzqS7k0&usqp=CAU" title="Mantis" alt="Mantis" width="15" height="15"/>&nbsp;𝐌𝐀𝐍𝐓𝐈𝐒𝐁𝐔𝐆𝐓𝐑𝐀𝐂𝐊𝐄𝐑&nbsp;
   <img src="http://www.testingtoolsguide.net/wp-content/uploads/2016/11/testlink-logo.png" title="Testlink" alt="Testlink" width="15" height="15"/>&nbsp;𝐓𝐄𝐒𝐓𝐋𝐈𝐍𝐊&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968704.png" title="Figma" alt="Figma" width="15" height="15"/>&nbsp;</p>&nbsp;𝐅𝐈𝐆𝐌𝐀&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968704.png" title="Figma" alt="Figma" width="15" height="15"/>&nbsp;𝐅𝐈𝐆𝐌𝐀</p>
    </div>
 <div align="left">
 <p><h2><img src="https://cdn-icons-png.flaticon.com/128/2620/2620900.png" width=40 heigh=40>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (in basic level and I keep studying):</h2></p>
