@@ -19,25 +19,15 @@
       <li><p align="left">𝚂𝚎𝚗𝚜𝚎 𝚘𝚏 𝚑𝚞𝚖𝚘𝚛</p></li>
    </div>
   <div align="left">
-   <style type="text/css">
-   IMG.fig {
-    float: right; /* Обтекание картинки по левому краю */
-    padding-left: 10px; /* Отступ слева */
-    padding-bottom: 10px; /* Отступ снизу */
-   }
-  </style>
    <p align="left"><h2><img src="https://cdn-icons-png.flaticon.com/128/1589/1589641.png" width=40 heigh=40>𝐓𝐨𝐨𝐥𝐬 (𝐚𝐥𝐥 𝐢𝐜𝐨𝐧𝐬 𝐚𝐫𝐞 𝐜𝐥𝐢𝐜𝐤𝐚𝐛𝐥𝐞):</h2></p>
   
   <a href="https://github.com/JuliyaVo/Terminal">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1050px-Octicons-terminal.svg.png" title="Terminal" alt="Terminal" width="30" height="30"align="left"/><a>&nbsp;𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋
-  
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1050px-Octicons-terminal.svg.png" title="Terminal" alt="Terminal" width="30" height="30"/><a>&nbsp;𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋
    <a href="https://github.com/JuliyaVo/GitHub">
      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="30" height="30"/></a>&nbsp;𝐆𝐈𝐓𝐇𝐔𝐁
  <a href="https://github.com/JuliyaVo/SQL/tree/main/Ksendzov_SQL_HW">
      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="30" height="30"/></a> 
-  &nbsp;𝐃𝐁𝐄𝐀𝐕𝐄𝐑
-  
-                                                                                                                                      
+  &nbsp;𝐃𝐁𝐄𝐀𝐕𝐄𝐑                                                                                                                               
   <a href="https://github.com/JuliyaVo/DevTools">
      <img src="https://static-00.iconduck.com/assets.00/browser-chrome-icon-512x512-5jzefwp3.png" title="DevTools" alt="DevTools" width="30" height="30"/></a>&nbsp;𝐃𝐄𝐕𝐓𝐎𝐎𝐋𝐒
 <a href="https://github.com/JuliyaVo/Postman">
@@ -59,29 +49,23 @@
 <div align="left">
 <p><h2><img src="https://cdn-icons-png.flaticon.com/128/2620/2620900.png" width=40 heigh=40>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (in basic level and I keep studying):</h2></p>
 <a href="https://github.com/JuliyaVo/SQL">
-   <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
-</a>
+   <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL" alt="SQL" width="30" height="30"/></a>&nbsp;𝐒𝐐𝐋
    <a href="https://github.com/JuliyaVo/HTML_CSS">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
-   </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="HTML" width="30" height="30"/></a>&nbsp;𝐇𝐓𝐌𝐋
    <a href="https://github.com/JuliyaVo/HTML_CSS">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png?20160530175649" title="CSS" alt="CSS" width="60" height="60"/>&nbsp; 
-   </a>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Text-xml.svg/1308px-Text-xml.svg.png?20120910211350" title="XML" alt="XML" width="60" height="60"/>&nbsp; 
-   </a>
-   <a href= "https://github.com/JuliyaVo/JavaScript">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/794px-Javascript-shield.svg.png?20180912181046" title="JS" alt="JS" width="60" height="60"/>&nbsp; 
-   </a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png?20160530175649" title="CSS" alt="CSS" width="30" height="30"/></a>&nbsp;𝐂𝐒𝐒
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Text-xml.svg/1308px-Text-xml.svg.png?20120910211350" title="XML" alt="XML" width="30" height="30"/></a>&nbsp;𝐗𝐌𝐋
+    <a href= "https://github.com/JuliyaVo/JavaScript">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/794px-Javascript-shield.svg.png?20180912181046" title="JS" alt="JS" width="30" height="30"/></a>&nbsp;𝐉𝐀𝐕𝐀𝐒𝐂𝐑𝐈𝐏𝐓
    <a href= "https://github.com/JuliyaVo/Python">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png?20220821155029" title="Python" alt="Python" width="60" height="60"/>&nbsp; 
-   </a> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png?20220821155029" title="Python" alt="Python" width="30" height="30"/></a>&nbsp;𝐏𝐘𝐓𝐇𝐎𝐍
    </div>
-   
    <div align="left">
 <p><h2><img src="https://cdn-icons-png.flaticon.com/128/610/610333.png" width=40 heigh=40>𝐌𝐲 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞𝐬:</h2></p>
    <ol>
    <p><a href="https://drive.google.com/file/d/1OtILskrql3RL_eJQykMZOVTvObUlME5k/view">The Fundamentals of Software Testing</a></p>
    <p><a href="https://drive.google.com/file/d/1wx5PsMySZb3SK1b6U-oAAs6A3HqkQe6Q/view?usp=sharing">Stepik Interactive SQL Trainer</a></p>
+   <p><a href="https://drive.google.com/file/d/1_cLbR3JHAO673YsgEMEFX7dY0qDXjvRZ/view?usp=share_link"</a>Test Analysis by RY Consulting</p>
    <p><a href="https://drive.google.com/file/d/1Y4qsSUlkBZq0K3QQ8NMmatbweqUVDYFb/view?usp=sharing">Stepik Software Testing: Postman for API Testing</a>
    <p><a href="https://drive.google.com/file/d/10thO2p9192LFTsj0oDTFP0WN5TbsTAsS/view?usp=sharing">Sololearn SQL</a>
    </p>
