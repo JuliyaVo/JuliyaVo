@@ -18,14 +18,11 @@
       <li><p align="left">𝙴𝚡𝚌𝚎𝚕𝚕𝚎𝚗𝚝 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚌𝚊𝚝𝚒𝚟𝚎 𝚜𝚔𝚒𝚕𝚕𝚜 𝚊𝚗𝚍 𝚊𝚋𝚒𝚕𝚒𝚝𝚢 𝚝𝚘 𝚊𝚜𝚔 𝚛𝚒𝚐𝚑𝚝 𝚚𝚞𝚎𝚜𝚝𝚒𝚘𝚗𝚜</p></li>
       <li><p align="left">𝚂𝚎𝚗𝚜𝚎 𝚘𝚏 𝚑𝚞𝚖𝚘𝚛</p></li>
    </div>
-  
   <div align="left">
    <p align="left"><h2><img src="https://cdn-icons-png.flaticon.com/128/1589/1589641.png" width=40 heigh=40>𝐓𝐨𝐨𝐥𝐬 (𝐚𝐥𝐥 𝐢𝐜𝐨𝐧𝐬 𝐚𝐫𝐞 𝐜𝐥𝐢𝐜𝐤𝐚𝐛𝐥𝐞):</h2></p>
   
   <a href="https://github.com/JuliyaVo/Terminal">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1050px-Octicons-terminal.svg.png" title="Terminal" alt="Terminal" width="60" height="60"/>&nbsp; 
-  </a>
-  
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1050px-Octicons-terminal.svg.png" title="Terminal" alt="Terminal" width="30" height="30"/>𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋</a>
   <a href="https://github.com/JuliyaVo/GitHub">
      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="60" height="60"/>&nbsp; 
   </a>
@@ -33,11 +30,9 @@
   <a href="https://github.com/JuliyaVo/SQL/tree/main/Ksendzov_SQL_HW">
      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="60" height="60"/>&nbsp; 
   </a>
-  
   <a href="https://github.com/JuliyaVo/DevTools">
      <img src="https://github.com/JuliyaVo/JuliyaVo/blob/main/PngItem_1340136.png?raw=true" title="CromeDevTools" alt="ChromeDevTools" width="60" height="60"/>&nbsp; 
   </a>
-  
 <a href="https://github.com/JuliyaVo/DevTools">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Firefox_Developer_Edition_logo%2C_2017.svg/1024px-Firefox_Developer_Edition_logo%2C_2017.svg.png?20220813172646" title="Firefox Developer Tools" alt="Firefox Developer Tools" width="60" height="60"/>&nbsp;
 </a>
@@ -63,7 +58,13 @@
   <a href="https://github.com/JuliyaVo/Jmeter">
    <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="Jmeter" alt="Jmeter" width="60" height="60"/>&nbsp;
 </a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
+</div>
+<div align="left">
+   <p align="left"><h2><img src="https://cdn-icons-png.flaticon.com/128/1589/1589641.png" width=40 heigh=40>𝐓𝐨𝐨𝐥𝐬 (𝐚𝐥𝐥 𝐢𝐜𝐨𝐧𝐬 𝐚𝐫𝐞 𝐜𝐥𝐢𝐜𝐤𝐚𝐛𝐥𝐞):</h2></p> 
+ 
+ 
+ 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3rcitUXg4lx4ivohuulnKK6rebzhtS-nMnK02xcs0Jgf8u4Ou-7ZMGx1mHyRAzqS7k0&usqp=CAU" title="Mantis" alt="Mantis" width="60" height="60"/>&nbsp;
   <img src="http://www.testingtoolsguide.net/wp-content/uploads/2016/11/testlink-logo.png" title="Testlink" alt="Testlink" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VScode" alt="VScode" width="60" height="60"/>&nbsp;
