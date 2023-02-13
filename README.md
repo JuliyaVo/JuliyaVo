@@ -18,7 +18,7 @@
       <li><p align="left">𝙴𝚡𝚌𝚎𝚕𝚕𝚎𝚗𝚝 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚌𝚊𝚝𝚒𝚟𝚎 𝚜𝚔𝚒𝚕𝚕𝚜 𝚊𝚗𝚍 𝚊𝚋𝚒𝚕𝚒𝚝𝚢 𝚝𝚘 𝚊𝚜𝚔 𝚛𝚒𝚐𝚑𝚝 𝚚𝚞𝚎𝚜𝚝𝚒𝚘𝚗𝚜</p></li>
       <li><p align="left">𝚂𝚎𝚗𝚜𝚎 𝚘𝚏 𝚑𝚞𝚖𝚘𝚛</p></li>
    </div>
-  <div align="left" vertical-align="bottom">
+  <div align="left" vertical align="bottom">
    <p align="left"><h2><img src="https://cdn-icons-png.flaticon.com/128/1589/1589641.png" width=40 heigh=40>𝐓𝐨𝐨𝐥𝐬 (𝐚𝐥𝐥 𝐢𝐜𝐨𝐧𝐬 𝐚𝐫𝐞 𝐜𝐥𝐢𝐜𝐤𝐚𝐛𝐥𝐞):</h2></p>
   
   <a href="https://github.com/JuliyaVo/Terminal">
