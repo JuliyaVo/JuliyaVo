@@ -31,7 +31,7 @@
   <a href="https://github.com/JuliyaVo/DevTools">
      <img src="https://static-00.iconduck.com/assets.00/browser-chrome-icon-512x512-5jzefwp3.png" title="DevTools" alt="DevTools" width="30" height="30"/></a>&nbsp;𝐃𝐄𝐕𝐓𝐎𝐎𝐋𝐒
 <a href="https://github.com/JuliyaVo/Postman">
-   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="60" height="60"/></a>&nbsp;𝐏𝐎𝐒𝐓𝐌𝐀𝐍
+   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="30 vertical align="bottom"" height="30"/></a>&nbsp;𝐏𝐎𝐒𝐓𝐌𝐀𝐍
 <a href="https://github.com/JuliyaVo/Mobile_Testing">
    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Androidstudio" alt="Androidstudio" width="30" height="30"/></a>&nbsp;𝐀𝐍𝐃𝐑𝐎𝐈𝐃𝐒𝐓𝐔𝐃𝐈𝐎
 <a href="https://github.com/JuliyaVo/Mobile_Testing">
