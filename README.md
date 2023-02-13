@@ -31,20 +31,20 @@
   <a href="https://github.com/JuliyaVo/DevTools">
      <img src="https://static-00.iconduck.com/assets.00/browser-chrome-icon-512x512-5jzefwp3.png" title="DevTools" alt="DevTools" width="30" height="30"/></a>&nbsp;𝐃𝐄𝐕𝐓𝐎𝐎𝐋𝐒
 <a href="https://github.com/JuliyaVo/Postman">
-   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="30 vertical align="bottom"" height="30"/></a>&nbsp;𝐏𝐎𝐒𝐓𝐌𝐀𝐍
+   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="30" height="30"/></a>&nbsp;𝐏𝐎𝐒𝐓𝐌𝐀𝐍
 <a href="https://github.com/JuliyaVo/Mobile_Testing">
    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Androidstudio" alt="Androidstudio" width="30" height="30"/></a>&nbsp;𝐀𝐍𝐃𝐑𝐎𝐈𝐃𝐒𝐓𝐔𝐃𝐈𝐎
 <a href="https://github.com/JuliyaVo/Mobile_Testing">
 <a href="https://github.com/JuliyaVo/CharlesProxy">
    <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" title="Charles Proxy" alt="Charles Proxy" width="30" height="30"/></a>&nbsp;𝐂𝐇𝐀𝐑𝐋𝐄𝐒𝐏𝐑𝐎𝐗𝐘
-  <img src="https://www.saashub.com/images/app/service_logos/106/2b4fce269616/large.png?1574388781" title="Proxyman" alt="Proxyman" width="30" height="30"/></a>&nbsp;𝐏𝐑𝐎𝐗𝐘𝐌𝐀𝐍
+  <p><img src="https://www.saashub.com/images/app/service_logos/106/2b4fce269616/large.png?1574388781" title="Proxyman" alt="Proxyman" width="30" height="30"/></a>&nbsp;𝐏𝐑𝐎𝐗𝐘𝐌𝐀𝐍
   <a href="https://github.com/JuliyaVo/Jmeter">
    <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="Jmeter" alt="Jmeter" width="30" height="30"/></a>&nbsp;𝐉𝐌𝐄𝐓𝐄𝐑
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VScode" alt="VScode" width="30" height="30"/>&nbsp;𝐕𝐒𝐂𝐎𝐃𝐄
  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>&nbsp;𝐉𝐈𝐑𝐀
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3rcitUXg4lx4ivohuulnKK6rebzhtS-nMnK02xcs0Jgf8u4Ou-7ZMGx1mHyRAzqS7k0&usqp=CAU" title="Mantis" alt="Mantis" width="30" height="30"/>&nbsp;𝐌𝐀𝐍𝐓𝐈𝐒𝐁𝐔𝐆𝐓𝐑𝐀𝐂𝐊𝐄𝐑
   <img src="http://www.testingtoolsguide.net/wp-content/uploads/2016/11/testlink-logo.png" title="Testlink" alt="Testlink" width="30" height="30"/>&nbsp;𝐓𝐄𝐒𝐓𝐋𝐈𝐍𝐊
-  <img src="https://www.qase.io/images/q_logo.png?v=2" title="Qase.io" alt="Qase.io" width="30" height="30"/>&nbsp;𝐐𝐀𝐒𝐄
+  <img src="https://www.qase.io/images/q_logo.png?v=2" title="Qase.io" alt="Qase.io" width="30" height="30"/>&nbsp;𝐐𝐀𝐒𝐄</p>
    </div>
 <div align="left">
 <p><h2><img src="https://cdn-icons-png.flaticon.com/128/2620/2620900.png" width=40 heigh=40>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (in basic level and I keep studying):</h2></p>
