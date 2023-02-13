@@ -72,6 +72,20 @@
    </ol> 
    </a>
    </div>
+   <div align="left">
+<p><h2><img src="https://cdn-icons-png.flaticon.com/128/610/610333.png" width=40 heigh=40>𝐌𝐲 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞𝐬:</h2></p>
+   <ol>
+   <p>
+      <img src="https://cdn-icons-png.flaticon.com/512/3649/3649497.png" width="5" height="5"/></a>&nbsp;
+      <a href="https://drive.google.com/file/d/1OtILskrql3RL_eJQykMZOVTvObUlME5k/view">The Fundamentals of Software Testing</a></p>
+   <p><a href="https://drive.google.com/file/d/1wx5PsMySZb3SK1b6U-oAAs6A3HqkQe6Q/view?usp=sharing">Stepik Interactive SQL Trainer</a></p>
+   <p><a href="https://drive.google.com/file/d/1_cLbR3JHAO673YsgEMEFX7dY0qDXjvRZ/view?usp=share_link"</a>Test Analysis by RY Consulting</p>
+   <p><a href="https://drive.google.com/file/d/1Y4qsSUlkBZq0K3QQ8NMmatbweqUVDYFb/view?usp=sharing">Stepik Software Testing: Postman for API Testing</a>
+   <p><a href="https://drive.google.com/file/d/10thO2p9192LFTsj0oDTFP0WN5TbsTAsS/view?usp=sharing">Sololearn SQL</a>
+   </p>
+   </ol> 
+   </a>
+   </div>
    
    <div id="header" align="center">
   <img src="https://media.giphy.com/media/Y34jqOCXhgEsqRLULa/giphy.gif" width="100"/>
