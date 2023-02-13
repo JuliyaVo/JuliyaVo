@@ -49,16 +49,16 @@
 <div align="left">
 <p><h2><img src="https://cdn-icons-png.flaticon.com/128/2620/2620900.png" width=40 heigh=40>𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (in basic level and I keep studying):</h2></p>
 <a href="https://github.com/JuliyaVo/SQL">
-   <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL" alt="SQL" width="30" height="30"/></a>&nbsp;𝐒𝐐𝐋
+   <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL" alt="SQL" width="30" height="30"/></a>&nbsp;
    <a href="https://github.com/JuliyaVo/HTML_CSS">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="HTML" width="30" height="30"/></a>&nbsp;𝐇𝐓𝐌𝐋
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="HTML" width="30" height="30"/></a>&nbsp;
    <a href="https://github.com/JuliyaVo/HTML_CSS">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png?20160530175649" title="CSS" alt="CSS" width="30" height="30"/></a>&nbsp;𝐂𝐒𝐒
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Text-xml.svg/1308px-Text-xml.svg.png?20120910211350" title="XML" alt="XML" width="30" height="30"/></a>&nbsp;𝐗𝐌𝐋
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png?20160530175649" title="CSS" alt="CSS" width="30" height="30"/></a>&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Text-xml.svg/1308px-Text-xml.svg.png?20120910211350" title="XML" alt="XML" width="30" height="30"/></a>&nbsp;
     <a href= "https://github.com/JuliyaVo/JavaScript">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/794px-Javascript-shield.svg.png?20180912181046" title="JS" alt="JS" width="30" height="30"/></a>&nbsp;𝐉𝐀𝐕𝐀𝐒𝐂𝐑𝐈𝐏𝐓
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/794px-Javascript-shield.svg.png?20180912181046" title="JS" alt="JS" width="30" height="30"/></a>&nbsp;
    <a href= "https://github.com/JuliyaVo/Python">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png?20220821155029" title="Python" alt="Python" width="30" height="30"/></a>&nbsp;𝐏𝐘𝐓𝐇𝐎𝐍
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png?20220821155029" title="Python" alt="Python" width="30" height="30"/></a>&nbsp;
    </div>
    <div align="left">
    <div align="left">
