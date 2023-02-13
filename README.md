@@ -61,6 +61,15 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png?20220821155029" title="Python" alt="Python" width="30" height="30"/></a>&nbsp;𝐏𝐘𝐓𝐇𝐎𝐍
    </div>
    <div align="left">
+   <div align="left">
+<p><h2><img src="https://cdn-icons-png.flaticon.com/512/1548/1548205.png" width=40 heigh=40>𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧:</h2></p>
+   <ol>
+   <p><a href="https://github.com/JuliyaVo/Test_Documentation/blob/main/TestCases_CheckLists_TestSuits.md">Checklists</a></p>
+   <p><a href="https://github.com/JuliyaVo/Test_Documentation/blob/main/TestCases_CheckLists_TestSuits.md">Test-Cases & Test Suites</a></p>
+   <p><a href="https://github.com/JuliyaVo/Test_Documentation/blob/main/Bug_reports.md">Bug-Reports</a></p>
+   </ol> 
+   </a>
+   </div>
 <p><h2><img src="https://cdn-icons-png.flaticon.com/128/610/610333.png" width=40 heigh=40>𝐌𝐲 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞𝐬:</h2></p>
    <ol>
    <p>
@@ -78,15 +87,6 @@
    <p>
    <img src="https://cdn-icons-png.flaticon.com/512/3649/3649497.png" width="15" height="15"/></a>&nbsp;
    <a href="https://drive.google.com/file/d/10thO2p9192LFTsj0oDTFP0WN5TbsTAsS/view?usp=sharing">Sololearn SQL</a></p>
-   </ol> 
-   </a>
-   </div>
-   <div align="left">
-<p><h2><img src="https://cdn-icons-png.flaticon.com/128/610/610333.png" width=40 heigh=40>𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧:</h2></p>
-   <ol>
-   <p><a href="">Checklists</a></p>
-   <p><a href="">Test-Cases & Test Suites</a></p>
-   <p><a href="">Bug-Reports</a></p>
    </ol> 
    </a>
    </div>
