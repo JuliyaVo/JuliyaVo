@@ -22,7 +22,7 @@
    <p align="left"><h2><img src="https://cdn-icons-png.flaticon.com/128/1589/1589641.png" width=40 heigh=40>&nbsp;𝐓𝐨𝐨𝐥𝐬 (𝘢𝘭𝘭 𝘪𝘤𝘰𝘯𝘴 𝘢𝘳𝘦 𝘤𝘭𝘪𝘤𝘬𝘢𝘣𝘭𝘦):</h2></p>
  
   <a href="https://github.com/JuliyaVo/Terminal">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1050px-Octicons-terminal.svg.png" title="Terminal" alt="Terminal" width="15" height="15"/><a>&nbsp;<h3>𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋</h3>&nbsp;
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1050px-Octicons-terminal.svg.png" title="Terminal" alt="Terminal" width="20" height="20"/><a>&nbsp;<h3>𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋</h3>&nbsp;
    <a href="https://github.com/JuliyaVo/GitHub">
      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="15" height="15"/></a>&nbsp;𝐆𝐈𝐓𝐇𝐔𝐁&nbsp;
  <a href="https://github.com/JuliyaVo/SQL/tree/main/Ksendzov_SQL_HW">
