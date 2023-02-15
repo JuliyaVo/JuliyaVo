@@ -19,10 +19,10 @@
       <li><p align="left">𝚂𝚎𝚗𝚜𝚎 𝚘𝚏 𝚑𝚞𝚖𝚘𝚛</p></li>
    </div>
   <div align="left">
-   <p align="left"><h2><img src="https://cdn-icons-png.flaticon.com/128/1589/1589641.png" width=40 heigh=40>𝐓𝐨𝐨𝐥𝐬 (𝐚𝐥𝐥 𝐢𝐜𝐨𝐧𝐬 𝐚𝐫𝐞 𝐜𝐥𝐢𝐜𝐤𝐚𝐛𝐥𝐞):</h2></p>
+   <p align="left"><h2><img src="https://cdn-icons-png.flaticon.com/128/1589/1589641.png" width=40 heigh=40>&nbsp;𝐓𝐨𝐨𝐥𝐬 (𝘢𝘭𝘭 𝘪𝘤𝘰𝘯𝘴 𝘢𝘳𝘦 𝘤𝘭𝘪𝘤𝘬𝘢𝘣𝘭𝘦):</h2></p>
  
   <a href="https://github.com/JuliyaVo/Terminal">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1050px-Octicons-terminal.svg.png" title="Terminal" alt="Terminal" width="15" height="15"/><a>&nbsp;𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋&nbsp;
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Octicons-terminal.svg/1050px-Octicons-terminal.svg.png" title="Terminal" alt="Terminal" width="15" height="15"/><a>&nbsp;<h3>𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋</h3>&nbsp;
    <a href="https://github.com/JuliyaVo/GitHub">
      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="15" height="15"/></a>&nbsp;𝐆𝐈𝐓𝐇𝐔𝐁&nbsp;
  <a href="https://github.com/JuliyaVo/SQL/tree/main/Ksendzov_SQL_HW">
@@ -47,7 +47,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968704.png" title="Figma" alt="Figma" width="15" height="15"/>&nbsp;𝐅𝐈𝐆𝐌𝐀</p>
    </div>
 <div align="left">
-<p><h2><img src="https://cdn-icons-png.flaticon.com/128/2620/2620900.png" width=35 heigh=35>&nbsp;𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (𝒊𝒏 𝒃𝒂𝒔𝒊𝒄 𝒍𝒆𝒗𝒆𝒍 𝒂𝒏𝒅 𝑰 𝒌𝒆𝒆𝒑 𝒔𝒕𝒖𝒅𝒚𝒊𝒏𝒈):</h2></p>
+<p><h2><img src="https://cdn-icons-png.flaticon.com/128/2620/2620900.png" width=40 heigh=40>&nbsp;𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (𝘪𝘯 𝘣𝘢𝘴𝘪𝘤 𝘭𝘦𝘷𝘦𝘭 𝘢𝘯𝘥 𝘐 𝘬𝘦𝘦𝘱 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨):</h2></p>
 <a href="https://github.com/JuliyaVo/SQL">
    <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL" alt="SQL" width="30" height="30"/></a>&nbsp;
    <a href="https://github.com/JuliyaVo/HTML_CSS">
