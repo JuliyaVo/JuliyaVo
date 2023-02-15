@@ -47,7 +47,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968704.png" title="Figma" alt="Figma" width="15" height="15"/>&nbsp;𝐅𝐈𝐆𝐌𝐀</p>
    </div>
 <div align="left">
-<p><img src="https://cdn-icons-png.flaticon.com/128/2620/2620900.png" width=35 heigh=35><h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (𝒊𝒏 𝒃𝒂𝒔𝒊𝒄 𝒍𝒆𝒗𝒆𝒍 𝒂𝒏𝒅 𝑰 𝒌𝒆𝒆𝒑 𝒔𝒕𝒖𝒅𝒚𝒊𝒏𝒈):</h2></p>
+<p><h2><img src="https://cdn-icons-png.flaticon.com/128/2620/2620900.png" width=35 heigh=35>&nbsp;𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 (𝒊𝒏 𝒃𝒂𝒔𝒊𝒄 𝒍𝒆𝒗𝒆𝒍 𝒂𝒏𝒅 𝑰 𝒌𝒆𝒆𝒑 𝒔𝒕𝒖𝒅𝒚𝒊𝒏𝒈):</h2></p>
 <a href="https://github.com/JuliyaVo/SQL">
    <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" title="SQL" alt="SQL" width="30" height="30"/></a>&nbsp;
    <a href="https://github.com/JuliyaVo/HTML_CSS">
