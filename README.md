@@ -41,8 +41,10 @@
   <a href="https://github.com/JuliyaVo/Jmeter">
    <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="Jmeter" alt="Jmeter" width="15" height="30"/></a>&nbsp;𝐉𝐌𝐄𝐓𝐄𝐑&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VScode" alt="VScode" width="15" height="10"/>&nbsp;𝐕𝐒𝐂𝐎𝐃𝐄&nbsp;
+   <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" title="Docker" alt="Docker" width="15" height="10"/>&nbsp;𝐃𝐎𝐂𝐊𝐄𝐑&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="15" height="15"/>&nbsp;𝐉𝐈𝐑𝐀&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3rcitUXg4lx4ivohuulnKK6rebzhtS-nMnK02xcs0Jgf8u4Ou-7ZMGx1mHyRAzqS7k0&usqp=CAU" title="Mantis" alt="Mantis" width="15" height="15"/>&nbsp;𝐌𝐀𝐍𝐓𝐈𝐒𝐁𝐔𝐆𝐓𝐑𝐀𝐂𝐊𝐄𝐑&nbsp;
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlX-eswjbyyhROiCpFLXYEyUVnRoExin9QZhwX6D9ypA&s" title="Testomatio" alt="Testomatio" width="15" height="10"/>&nbsp;𝐓𝐄𝐒𝐓𝐎𝐌𝐀𝐓.𝐢𝐨&nbsp;
   <img src="http://www.testingtoolsguide.net/wp-content/uploads/2016/11/testlink-logo.png" title="Testlink" alt="Testlink" width="15" height="15"/>&nbsp;𝐓𝐄𝐒𝐓𝐋𝐈𝐍𝐊&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968704.png" title="Figma" alt="Figma" width="15" height="15"/>&nbsp;𝐅𝐈𝐆𝐌𝐀</p>
    </div>
